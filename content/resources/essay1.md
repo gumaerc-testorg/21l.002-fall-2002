@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c51ed592-fd96-89fa-1adf-ba5bf5978b80
 resourcetype: Document
 title: First Essay
 uid: b216d11a-4ae4-2123-14e4-cb16b6613e13

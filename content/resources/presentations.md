@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c51ed592-fd96-89fa-1adf-ba5bf5978b80
 resourcetype: Document
 title: 'Giving your Presentation: Suggestions and Guidelines'
 uid: 49977185-c0e1-ad08-790a-596da6debd54

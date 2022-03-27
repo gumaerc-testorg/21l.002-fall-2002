@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f3643f65-c502-b525-25ac-40e050fe124d
 resourcetype: Document
 title: "Outline for Michael Ondaatje, Anil\u2018s Ghost "
 uid: ec9745f9-bf95-2264-95c7-cbf1ad9698b9

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f3643f65-c502-b525-25ac-40e050fe124d
 resourcetype: Document
 title: Mock on, Mock on, Voltaire, Rousseau
 uid: 2cde8827-939e-db81-fd89-6a464592f2a6

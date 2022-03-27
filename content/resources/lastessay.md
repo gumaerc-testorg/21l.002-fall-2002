@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c51ed592-fd96-89fa-1adf-ba5bf5978b80
 resourcetype: Document
 title: 'Speaking for the Dead: as a Response to History'
 uid: 6f067df0-ff7f-890f-a847-c0b36ad39e72

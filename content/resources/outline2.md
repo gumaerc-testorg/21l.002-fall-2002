@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f3643f65-c502-b525-25ac-40e050fe124d
 resourcetype: Document
 title: Uncle Tom's Cabin, Volume 2
 uid: 419a11ba-6f89-3346-f910-df31eef99037

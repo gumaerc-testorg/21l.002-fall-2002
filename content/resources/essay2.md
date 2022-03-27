@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c51ed592-fd96-89fa-1adf-ba5bf5978b80
 resourcetype: Document
 title: 'Essay #2: Topics and Dates'
 uid: ae3525ae-26ab-a548-a18e-4c4a4a4f711a
