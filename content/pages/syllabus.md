@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, requirements,
+  writing assignments, attendance policy, oral presentations, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6b59c70d-57c5-9b19-24fb-ac0eb2e545e0
 ---

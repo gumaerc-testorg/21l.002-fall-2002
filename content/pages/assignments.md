@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions on the writing assignments
+  and the oral presentation required for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: c51ed592-fd96-89fa-1adf-ba5bf5978b80
 ---
@@ -7,10 +12,10 @@ uid: c51ed592-fd96-89fa-1adf-ba5bf5978b80
 Writing
 -------
 
-*   Essay 1 ([PDF]({{< baseurl >}}/resources/essay1))
-*   Essay 2 ([PDF]({{< baseurl >}}/resources/essay2))
-*   Essay 3 ([PDF]({{< baseurl >}}/resources/essay3))
-*   Essay 4 ([PDF]({{< baseurl >}}/resources/lastessay))
+*   Essay 1 ({{% resource_link b216d11a-4ae4-2123-14e4-cb16b6613e13 "PDF" %}})
+*   Essay 2 ({{% resource_link ae3525ae-26ab-a548-a18e-4c4a4a4f711a "PDF" %}})
+*   Essay 3 ({{% resource_link 9d340e2c-3652-03c2-2269-3d4447bd1398 "PDF" %}})
+*   Essay 4 ({{% resource_link 6f067df0-ff7f-890f-a847-c0b36ad39e72 "PDF" %}})
 
 You will be submitting a weekly journal to be on the reading via email. Unless otherwise indicated on the syllabus, these will be due Monday by 10 p.m. These journals are not formal essays, but should be thoughtful responses to the reading (which may include questions, problems, puzzlement). The journals will help me to focus discussions in class; for you, they can also serve as a first step towards your essays. Both of the first two essays have provisions for **revising** and **feedback**. The first is an absolute prerequisite for anyone who cares about writing effectively, the second an extremely useful tool. Everyone should count on meeting with the course tutor at least three times: once each for essays #1 and #2, and once more at your discretion.
 
@@ -131,4 +136,4 @@ Oral Presentations
 
 Once the class enrollment is stabilized, you'll sign up as part of a small group (3-4 people). In the first part of the semester, you should be reading each other's written work. In the second part of the semester, you'll be working together on a group presentation related to the reading. We'll talk about the presentations more in class, and each group will meet with me or the class tutor during the planning stages.
 
-Presentation Instructions ([PDF]({{< baseurl >}}/resources/presentations))
+Presentation Instructions ({{% resource_link 49977185-c0e1-ad08-790a-596da6debd54 "PDF" %}})
