@@ -5,6 +5,7 @@ file: /courses/21l-002-foundations-of-western-culture-ii-fall-2002/9d340e2c36520
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ' Essay 3'
 uid: 9d340e2c-3652-03c2-2269-3d4447bd1398
 ---
 Assignment to write an essay analyzing one of the course readings,
-

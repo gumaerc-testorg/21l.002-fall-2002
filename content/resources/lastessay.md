@@ -5,6 +5,7 @@ file: /courses/21l-002-foundations-of-western-culture-ii-fall-2002/6f067df0ff7f8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Speaking for the Dead: as a Response to History'
 uid: 6f067df0-ff7f-890f-a847-c0b36ad39e72
 ---
 Writing assignment based on the course readings.
-
