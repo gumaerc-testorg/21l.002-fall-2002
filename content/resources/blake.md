@@ -2,6 +2,7 @@
 content_type: resource
 description: A poem by William Blake.
 file: /courses/21l-002-foundations-of-western-culture-ii-fall-2002/2cde8827939edb81fd896a464592f2a6_blake.pdf
+file_size: 51612
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

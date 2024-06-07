@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment to write an essay analyzing one of the course readings,
 file: /courses/21l-002-foundations-of-western-culture-ii-fall-2002/9d340e2c365203c222693d4447bd1398_essay3.pdf
+file_size: 152222
 file_type: application/pdf
 learning_resource_types:
 - Assignments
