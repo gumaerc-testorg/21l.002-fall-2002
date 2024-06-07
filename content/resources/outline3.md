@@ -2,6 +2,7 @@
 content_type: resource
 description: Outline of Anil's Ghost by Michael Ondaatje.
 file: /courses/21l-002-foundations-of-western-culture-ii-fall-2002/ec9745f9bf95226495c7cbf1ad9698b9_outline3.pdf
+file_size: 141768
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

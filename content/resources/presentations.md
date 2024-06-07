@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines on giving presentations for the course.
 file: /courses/21l-002-foundations-of-western-culture-ii-fall-2002/49977185c0e1ad08790a596da6debd54_presentations.pdf
+file_size: 74701
 file_type: application/pdf
 learning_resource_types:
 - Assignments
