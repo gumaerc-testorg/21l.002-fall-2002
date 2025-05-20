@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Writing assignment based on the course readings.
-file: /ol-ocw-studio-app/courses/21l-002-foundations-of-western-culture-ii-fall-2002/6f067df0ff7f890fa847c0b36ad39e72_lastessay.pdf
+file: /courses/21l-002-foundations-of-western-culture-ii-fall-2002/6f067df0ff7f890fa847c0b36ad39e72_lastessay.pdf
 file_size: 102256
 file_type: application/pdf
 learning_resource_types:
