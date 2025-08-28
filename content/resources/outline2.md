@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of the second half of Uncle Tom's Cabin by Harriet Beecher Stowe.
-file: /courses/21l-002-foundations-of-western-culture-ii-fall-2002/419a11ba6f893346f910df31eef99037_outline2.pdf
+file: /ol-ocw-studio-app/courses/21l-002-foundations-of-western-culture-ii-fall-2002/419a11ba6f893346f910df31eef99037_outline2.pdf
 file_size: 76397
 file_type: application/pdf
 learning_resource_types: []
